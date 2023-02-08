@@ -22,7 +22,7 @@ Compiling, Training, and Evaluating the Model:
 - The second layer had four neurons and a relu activation function
 - The output layer had one neuron and a sigmoid activation function
 
-![Initial_scores]()
+![Initial_scores](https://github.com/Aleahkita/Neural_Network_Charity_Analysis/blob/main/Images/Initial_scores.png)
 
 - The initial neural network model did not achieve the target model performance (accuracy score of 0.7279)
 
@@ -37,7 +37,7 @@ The first attempt at optimization
 - Increased epochs to 150
 - Accuracy score slightly improved (0.7308) but did not achieve target model performance score
 
-![Optimization_1]()
+![Optimization_1](https://github.com/Aleahkita/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_1.png)
 
 The second attempt at optimization
 
@@ -50,7 +50,7 @@ The second attempt at optimization
 - Accuracy score decreased (0.7277)
 - Epochs kept at 150
 
-![Optimization_2]()
+![Optimization_2](https://github.com/Aleahkita/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_2.png)
 
 The third attempt at optimization
 
@@ -62,7 +62,7 @@ The third attempt at optimization
 - Epochs kept at 150
 - Accuracy score increased (0.7312)
 
-![Optimization_3]()
+![Optimization_3](https://github.com/Aleahkita/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_3.png)
 
 
 ## Summary
